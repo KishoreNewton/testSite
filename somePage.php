@@ -2,9 +2,9 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Git</title>
+<title>Another simple page for git testing</title>
 </head>
+
 <body>
-Git working? yeah it is.
 </body>
 </html>
