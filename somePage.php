@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Another simple page for git testing</title>
+<title>Another simple page for git testing ..</title>
 </head>
 
 <body>
